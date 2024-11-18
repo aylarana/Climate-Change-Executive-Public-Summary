@@ -1,6 +1,10 @@
 # Group 9 Executive Public Summary
 **By Parth Arora, Jyot Adhvary, Aditya Misra, and Ayla Rana**
 
+**November 12, 2024**
+
+**ISCI 3A12**
+
 ## Eco-Guilt and Eco-Paralysis
 Environmental challenges such as climate change, natural resource depletion, and biodiversity loss pose formidable threats to modern societies (Ágoston et al. 2022). While scientific and technical approaches are crucial, these problems necessitate a deeper understanding of the emotional responses they elicit from individuals (Ágoston et al. 2022). Eco-guilt, an emotion arising from the recognition of one’s contribution to environmental harm, serves as a moral regulator by driving introspection and self-censorship (Nielsen, Gamborg, and Lund 2024). This heightened awareness can inspire individual empowerment and drive climate action initiatives aimed at reducing personal and community impacts on the environment. However, excessive eco-guilt can escalate into eco-paralysis—a state of inaction rooted in feelings of helplessness. Emotional burnout caused by eco-paralysis exacerbates disengagement, emphasizing the importance of balancing these emotions effectively to sustain long-term action (Nielsen, Gamborg, and Lund 2024). 
 
